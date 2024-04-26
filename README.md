@@ -16,6 +16,6 @@ Dr. Sahand Majidi
 
 | Content                                                                                              | lecture link        | Code link        |
 | ---------------------------------------------------------------------------------------------------- | ------------------- | -----------------|
-| [Session 1]| |  |
-| [Session 2]| [Link]() | [Link]() |
-| [Session 3]| [Link]() | [Link]()  |
+| [Session 1]|[link](https://github.com/ArmanShateri/Gas-Dynamics-Course/blob/main/Presentation_Session1.pptx) |  |
+| [Session 2]| [Link](https://github.com/ArmanShateri/Gas-Dynamics-Course/blob/main/Presentation_Session2.pptx) | [Link](https://github.com/ArmanShateri/Gas-Dynamics-Course/blob/main/Session2.EES) |
+
