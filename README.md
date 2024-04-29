@@ -10,7 +10,7 @@ Dr. Sahand Majidi
 ## TAs:
 
 - [Arman Shateri](https://github.com/ArmanShateri)
-- (https://github.com/Hamedpooria)
+- [hadi shoeibi](https://github.com/Hamedpooria)
 
 
 
