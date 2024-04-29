@@ -10,6 +10,8 @@ Dr. Sahand Majidi
 ## TAs:
 
 - [Arman Shateri](https://github.com/ArmanShateri)
+- (https://github.com/Hamedpooria)
+
 
 
 ## EES codes and lecture files
